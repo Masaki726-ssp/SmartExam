@@ -1,0 +1,5 @@
+{
+  "name": "SmartExam AI",
+  "description": "An AI-powered online examination platform. Teachers upload content to generate quizzes, students join via room codes. Features real-time grading and advanced statistical analysis (T-test, SD, etc.).",
+  "requestFramePermissions": []
+}
